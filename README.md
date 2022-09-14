@@ -1,0 +1,2 @@
+# SIAT-Lower-Limb-Motion-Dataset-Codes
+These codes for reading, pre-processing of sEMG, splitting of sEMG into windows of various sizes, extracting of sEMG features, normalization of extracted features, generation of sample data, and making log files are provided for easy handling of the SIAT Lower Limb Motion Dataset (SIAT-LLMD).   代码可以用于SIAT-LLMD，便于读取数据、预处理肌电信号、分窗、肌电特征提取、归一化、生成数据样本并记录日志文件。当然，有些代码（例如：'EMGbox_WWH.py'）也可以用于处理数据集之外的肌电信号。
